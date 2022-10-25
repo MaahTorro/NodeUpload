@@ -2,9 +2,8 @@
 
 ## Para abrir o servidor 
 No terminal:
-
-``` npm init ```
 ```
+npm init
 dir
 cd src
 node index.js
